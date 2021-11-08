@@ -261,13 +261,15 @@ fetch('https://api.rss2json.com/v1/api.json?rss_url=https://gcescoderz.hashnode.
     html = ''
     for (let index = 0; index < 3; index++) {
       const item = data.items[index];
+      descp = item.description.replace(/<\s*br[^>]?>/,'\n').replace(/(<([^>]+)>)/g, "").split(' ').splice(0, 25).join(' ') + '...';
+
       html += `
         <div class="col-lg-4 col-md-6">
           <div class="journal-info">
-            <a href="${item.link}"><img src="${item.thumbnail}" class="img-responsive" alt="img"></a>
             <div class="journal-txt">
               <h4><a href="${item.link}">${item.title}</a></h4>
-              <a href="${item.link}" class="btn btn-dark"> 
+              <p>${descp}</p>
+              <a href="${item.link}" > 
                 Read Now
               </a>
             </div>
