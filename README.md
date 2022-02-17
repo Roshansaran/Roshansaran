@@ -31,10 +31,10 @@
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/sarankumarsk" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt=sarankumarsk" height="30" width="40" /></a>
  <a href="https://twitter.com/saran_kumar_sk" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="saran_kumar_sk" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -102,6 +102,7 @@
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=Roshansaran&bg_color=0d1117&text_color=ffffff" alt="Roshansaran" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ <a href="https://twitter.com/saran_kumar_sk" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>     
+
