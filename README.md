@@ -7,7 +7,7 @@
 </p>
 </br>
 <p><img align="right" src="https://github.com/Roshansaran/Roshansaran/blob/master/animation_500_kxa883sd.gif" alt="Roshansaran" /></p>
-
+<br>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
