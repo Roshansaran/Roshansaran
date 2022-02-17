@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GCES Coderz Newsletter</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="shortcut icon" href="https://i.imgur.com/qUnp4gs.jpg" type="image/x-icon">
+</head>
+<body>
+  <div id="app">
+    <h1 class="date"></h1>
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const months = [
+        "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+        "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+      ]
+      const date = new Date()
+      document.querySelector('.date').innerHTML = `Loading ${months[date.getMonth()]} - ${date.getFullYear()} ...`
+    })
+
+    window.$docsify = {
+      name: 'GCES Coderz Newsletter',
+      repo: 'https://github.com/gcescoderz/news',
+      auto2top: true,
+      loadSidebar: true,
+      coverpage: true,
+      subMaxLevel: 3,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Docsify Sidebar Collapse -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <!-- Docsify Panels Plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-example-panels"></script>
+
+
+</body>
+</html>
