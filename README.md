@@ -5,7 +5,7 @@
  <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=roshansaran&label=Profile%20views&color=0e75b6&style=flat"
     alt="roshansaran"> 
 </p>
-</br>
+
 
 <p><img align="right" src="https://github.com/roshansaran/Roshansaran/blob/master/animation_500_kxa883sd.gif" alt="Roshansaran"></p>
 
@@ -39,7 +39,7 @@
       alt="saran_kumar_sk" height="30" width="40" /></a>
 </p>
 
-</br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
