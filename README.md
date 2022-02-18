@@ -10,7 +10,7 @@
 <p><img align="right" src="https://github.com/roshansaran/roshansaran/blob/master/animation_500_kxa883sd.gif" alt="roshansaran"/></p>
 
 
-<p>
+<br>
  
 - 🌱 I’m currently learning Web Development and other programming languages
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-</p>
+</br>
 <br>
 
 <h3 align="left">Connect with me:</h3>
