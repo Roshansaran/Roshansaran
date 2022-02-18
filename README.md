@@ -2,11 +2,11 @@
 <h3 align="center">Student at GCES, Trichy🌟.</h3>
 
 <br>
- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Roshansaran&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Roshansaran" /> 
+ <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=roshansaran&label=Profile%20views&color=0e75b6&style=flat"
+    alt="roshansaran" /> 
 </p>
 </br>
-<p><img align="right" src="https://github.com/Roshansaran/Roshansaran/blob/master/animation_500_kxa883sd.gif" alt="Roshansaran" /></p>
+<p><img align="right" src="https://github.com/roshansaran/Roshansaran/blob/master/animation_500_kxa883sd.gif" alt="Roshansaran" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -85,14 +85,14 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshansaran&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Roshansaran" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansaran&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="roshansaran" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roshansaran&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Roshansaran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshansaran&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="roshansaran" /></p>
 
 <br>
 
@@ -101,7 +101,7 @@
 <!-- <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=Roshansaran&bg_color=0d1117&text_color=ffffff" alt="Roshansaran" /></a> </p> -->
+      src="https://github-profile-trophy.vercel.app/?username=roshansaran&bg_color=0d1117&text_color=ffffff" alt="roshansaran" /></a> </p> -->
  <a href="https://twitter.com/saran_kumar_sk" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>     
