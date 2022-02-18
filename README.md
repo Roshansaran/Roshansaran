@@ -7,7 +7,7 @@
 </p>
 
 
-<p><img align="right" src="https://github.com/roshansaran/Roshansaran/blob/master/animation_500_kxa883sd.gif" alt="Roshansaran"></p>
+<p><img align="right" src="https://github.com/roshansaran/roshansaran/blob/master/animation_500_kxa883sd.gif" alt="roshansaran"></p>
 
 
 
