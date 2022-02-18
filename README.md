@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/saran-kumar-sk/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="facebook.com/Roshansaransk" target="blank"><img align="center"
+  <a href="https://facebook.com/Roshansaransk/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Roshansaransk" height="30" width="40" /></a>
   <a href="https://instagram.com/saran._.kumar._.sk" target="blank"><img align="center"
