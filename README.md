@@ -14,7 +14,7 @@
  
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me<a href = "mailto: saransaran735890@gmail.com">saransaran735890@gmail.com</a>
+- 📫 How to reach me <a href = "mailto: saransaran735890@gmail.com">saransaran735890@gmail.com</a>
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
