@@ -2,7 +2,7 @@
 <h3 align="center">Student at GCES, Trichy🌟.</h3>
 
 <br>
- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=roshansaran&label=Profile%20views&color=0e75b6&style=flat"
+ <p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=roshansaran&label=Profile%20views&color=0e75b6&style=flat"
     alt="roshansaran"> 
 </p>
 
