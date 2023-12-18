@@ -41,8 +41,8 @@
       alt="sarankumarsk" height="30" width="40" /></a>
  <a href="https://twitter.com/isaravanamani" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="saran_kumar_sk" height="30" width="40" /></a>
-<p align="left"> <a href="https://twitter.com/isaravanamani" target="blank"><img src="https://img.shields.io/twitter/follow/saran_kumar_sk?logo=twitter&style=for-the-badge" alt="saran_kumar_sk" /></a> </p>
+     alt="isaravanamani" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/isaravanamani" target="blank"><img src="https://img.shields.io/twitter/follow/isaravanamani?logo=twitter&style=for-the-badge" alt="isaravanamani" /></a> </p>
 </p>
 
 
