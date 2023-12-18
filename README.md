@@ -27,13 +27,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/saran-kumar-sk/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/isaravanamani/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="saran-kumar-sk" height="30" width="40" /></a>
   <a href="https://facebook.com/Roshansaransk/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Roshansaransk" height="30" width="40" /></a>
-  <a href="https://instagram.com/saran._.kumar._.sk" target="blank"><img align="center"
+  <a href="https://instagram.com/nameisarans" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="saran._.kumar_.sk" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/sarankumarsk" target="blank"><img align="center"
