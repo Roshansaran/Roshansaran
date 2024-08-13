@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saran Kumar</h1>
+<h1 align="center">Hi 👋, I'm Saravana Mani</h1>
 <h3 align="center">Student at GCES, Trichy🌟.</h3>
 
 <br>
