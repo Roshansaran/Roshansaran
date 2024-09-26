@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saravana Mani</h1>
-<h3 align="center">Student at GCES, Trichy🌟.</h3>
+<h3 align="center">Student at GLC,Coimbatore🌟.</h3>
 
 <br>
  <p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=roshansaran&label=Profile%20views&color=0e75b6&style=flat"
