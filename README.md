@@ -12,7 +12,7 @@
 
 
  
-- 🌱 I’m currently learning Operating systems(linux) and other programming languages
+- 🌱 I’m currently learning Bachelor's of Law course....
 
 - 📫 How to reach me <a href = "mailto: saransaran735890@gmail.com">saransaran735890@gmail.com</a>
 
